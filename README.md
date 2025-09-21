@@ -26,18 +26,17 @@
 	<img width="40" height="40" alt="docker"			   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
 	<img width="40" height="40" alt="nginx"					 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
 	<img width="40" height="40" alt="python"				 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-</p> -->
+</p>
 
-<!--
 <img width="40" height="40" alt="vuejs"     	   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />
 <img width="40" height="40" alt="reactnative"    src="https://reactnative.dev/img/header_logo.svg" />
--->
 
 <h4 align="left">Design:</h4>
 <P>
 	<img width="40" height="40" alt="illustrator" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
 	<img width="40" height="40" alt="photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
 </p>
+-->
 
 <p>
 	<img align="left" 				 	alt="eddychen86" 		 src="https://github-readme-stats.vercel.app/api/top-langs?username=eddychen86&show_icons=true&locale=en&layout=compact" />
