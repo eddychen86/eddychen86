@@ -1,7 +1,9 @@
-# Hi 👋, I'm Yu Hung
-A passionate frontend developer from Taiwan.
-<br><br>
-I’m currently building up my skills in both frontend and backend tech, but I’m definitely more comfortable with the frontend side for now. I’m working hard to make progress in both areas.<br>
+<h1 align="center">Hi 👋, I'm Yu Hung</h1>
+<h3 align="center">A passionate frontend developer from Taiwan 🇹🇼.</h3>
+
+I’m currently building up my skills in both frontend and backend tech, but I’m definitely more comfortable with the frontend side for now. I’m working hard to make progress in both areas.
+
+<br>
 
 | Skills | Stats |
 | ------ | ----- |
