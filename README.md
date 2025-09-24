@@ -44,13 +44,20 @@ I’m currently learning ReactJS, NextJS, Typescript, SQL, ASP.NET Core, VueJS..
 ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini CLI](https://img.shields.io/badge/gemini_cli-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
+<details>
+	<summary>GitHub Stats</summary>
+	<p>
+		<img align="left" alt="eddychen86" src="https://github-readme-stats.vercel.app/api/wakatime?username=eddychen86" />
+	</p>
+	<p>
+		<img align="center" alt="eddychen86" src="https://github-readme-stats.vercel.app/api?username=eddychen86&show_icons=true&theme=radical" />
+	</p>
+</details>
+
 <!-- 
+shields.io logo source: https://simpleicons.org/
 
-<p>
-	<img align="left" alt="eddychen86" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddychen86&show_icons=true&locale=en&layout=compact" />
-</p>
+![Eddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddychen86&show_icons=true&theme=radical)
+![Eddy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eddychen86)
 
-<p>&nbsp;
-	<img align="center" alt="eddychen86" src="https://github-readme-stats.vercel.app/api?username=eddychen86&show_icons=true&locale=en" />
-</p>
 -->
