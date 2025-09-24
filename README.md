@@ -1,48 +1,56 @@
-<h1 align="left">Hi 👋, I'm Eddy</h1>
-<p>A passionate frontend developer from Taiwan.</p>
-<p>🌱 I’m currently learning VueJS, Flutter, SQL, Python...</p>
-<img src="https://komarev.com/ghpvc/?username=eddychen86&label=Profile%20views&color=0e75b6&style=flat" alt="eddychen86" />
+# Hi 👋, I'm Eddy
+A passionate frontend developer from Taiwan.<br>
+I’m currently learning ReactJS, NextJS, Typescript, SQL, ASP.NET Core, VueJS...<br>
+<!-- <img src="https://komarev.com/ghpvc/?username=eddychen86&label=Profile%20views&color=0e75b6&style=flat" alt="eddychen86" /> -->
 
-<h3 align="left">Tools</h3>
-<h4 align="left">Front-End:</h4>
+## Tools
+### Front-End
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
+<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=005571)
+![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=005571)
+<br>
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+<br>
+<!-- ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=005571) -->
+<!-- ![GraphQL (Apollo Client)](https://img.shields.io/badge/GraphQL_(Apollo_Client)-E10098?style=for-the-badge&logo=graphql&logoColor=white) -->
+
+### Back-End
+![ASP.NET Core](https://img.shields.io/badge/ASP.Net_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-ED1C24?style=for-the-badge&logoColor=white)
+<!-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) -->
+
+<!-- ### Others
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) -->
+
+### Cloud
+![Azure](https://img.shields.io/badge/azure-004E9F?style=for-the-badge&logoColor=white)
+![GCP](https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+<!-- ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white) -->
+
+### AI Tools
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/gemini_cli-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+<!-- 
+
 <p>
-	<img width="40" height="40" alt="html5"     		 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-	<img width="40" height="40" alt="css3"      		 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-	<img width="40" height="40" alt="javascript"		 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img width="40" height="40" alt="react"     		 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-	<img width="40" height="40" alt="nextjs"    		 src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" />
-	<img width="40" height="40" alt="sass"       		 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
-	<img width="40" height="40" alt="bootstrap"  		 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-	<img width="40" height="40" alt="tailwind"   		 src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+	<img align="left" alt="eddychen86" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddychen86&show_icons=true&locale=en&layout=compact" />
 </p>
 
-<!-- <h4 align="left">Back-End:</h4>
-<P>
-	<img width="40" height="40" alt="firebase"			 src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-	<img width="40" height="40" alt="mysql"					 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-	<img width="40" height="40" alt="mssql"					 src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
-	<img width="40" height="40" alt="sqlite"				 src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />
-	<img width="40" height="40" alt="graphql"				 src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
-	<img width="40" height="40" alt="docker"			   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-	<img width="40" height="40" alt="nginx"					 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
-	<img width="40" height="40" alt="python"				 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-</p>
-
-<img width="40" height="40" alt="vuejs"     	   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />
-<img width="40" height="40" alt="reactnative"    src="https://reactnative.dev/img/header_logo.svg" />
-
-<h4 align="left">Design:</h4>
-<P>
-	<img width="40" height="40" alt="illustrator" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
-	<img width="40" height="40" alt="photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
-</p>
--->
-
-<p>
-	<img align="left" 				 	alt="eddychen86" 		 src="https://github-readme-stats.vercel.app/api/top-langs?username=eddychen86&show_icons=true&locale=en&layout=compact" />
-</p>
-<!--
 <p>&nbsp;
-	<img align="center" 				alt="eddychen86"		 src="https://github-readme-stats.vercel.app/api?username=eddychen86&show_icons=true&locale=en" />
+	<img align="center" alt="eddychen86" src="https://github-readme-stats.vercel.app/api?username=eddychen86&show_icons=true&locale=en" />
 </p>
 -->
