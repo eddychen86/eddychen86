@@ -18,7 +18,7 @@ Iâ€™m currently building up my skills in both frontend and backend tech, but Iâ€
 ## **Stats**
 
 ![Eddy's GitHub stats](./profile/stats.svg)
-![Eddy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eddychen86&hide=other,bash,binary,git%20config,xml,batchfile,text,html,tsconfig,yaml,go,toml,css,php,ssh%20config,xaml,gitignore%20file,actionscript%203,ini,pug,sass,powershell,csv,vbscript,java,mermaid,microsoft%20visual%20studio%20solution,rust,apache%20config,jsonc,csproj,solution%20file,actionscript,ssh%20key,restructuredtext,csharp,c%2B%2B,http%20request,git,fish,cmake,diff,msbuild%20targets%20file,shell,image%20(svg),markdown,docker,json,svelte&hide_progress=true&hide_title=true&range=all_time&langs_count=10&layout=compact)
+![Eddy's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=eddychen86&hide=other,bash,binary,git%20config,xml,batchfile,text,html,tsconfig,yaml,go,toml,css,php,ssh%20config,xaml,gitignore%20file,actionscript%203,ini,pug,sass,powershell,csv,vbscript,java,mermaid,microsoft%20visual%20studio%20solution,rust,apache%20config,jsonc,csproj,solution%20file,actionscript,ssh%20key,restructuredtext,csharp,c%2B%2B,http%20request,git,fish,cmake,diff,msbuild%20targets%20file,shell,image%20(svg),markdown,docker,json,svelte&hide_progress=true&hide_title=true&range=all_time&langs_count=10&layout=compact)
 
 <!-- 
 shields.io logo source: https://simpleicons.org/
